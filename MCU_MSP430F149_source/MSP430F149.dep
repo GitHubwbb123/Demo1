@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3746219383</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Utils\dataPointTools.c</file>
+      <file>$PROJ_DIR$\Utils\dataPointTools.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ringbuffer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_uart.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\common.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dataPointTools.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ringbuffer.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dataPointTools.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\gizwits_product.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\dataPointTools.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\common.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\gizwits_protocol.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_uart.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\Hal_key.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ringbuffer.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Hal_key.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\gizwits_protocol.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocaleuse.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale_c.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ctype.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F149.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\wchar.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\msp430x14x.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\common.r43</file>
+      <file>$PROJ_DIR$\Debug\Exe\MSP430F149.txt</file>
+      <file>$PROJ_DIR$\Debug\Exe\MSP430F149.ulp</file>
+      <file>$PROJ_DIR$\Hal\Hal_key\Hal_key.h</file>
+      <file>$PROJ_DIR$\Hal\Hal_Usart\hal_uart.h</file>
+      <file>$PROJ_DIR$\Hal\Hal_Usart\hal_uart.c</file>
+      <file>$PROJ_DIR$\Utils\ringbuffer.c</file>
+      <file>$PROJ_DIR$\User\main.c</file>
+      <file>$PROJ_DIR$\Utils\ringBuffer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\gizwits_product.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\MSP430F149.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\gizwits_protocol.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\gizwits_product.pbi</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Hal_key.r43</file>
+      <file>$PROJ_DIR$\Debug\Exe\MSP430F149.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_uart.pbi</file>
+      <file>$PROJ_DIR$\Gizwits\gizwits_product.c</file>
+      <file>$PROJ_DIR$\Utils\common.c</file>
+      <file>$PROJ_DIR$\Utils\common.h</file>
+      <file>$PROJ_DIR$\Gizwits\gizwits_product.h</file>
+      <file>$PROJ_DIR$\Gizwits\gizwits_protocol.c</file>
+      <file>$PROJ_DIR$\Gizwits\gizwits_protocol.h</file>
+      <file>$PROJ_DIR$\Hal\Hal_key\Hal_key.c</file>
+      <file>$TOOLKIT_DIR$\config\linker\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\config\linker\lnk430f149.xcl</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Utils\dataPointTools.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 1 12 15 10 26 24 62 7 14 2 5 40 32 42 66 58 30 39 41 31 28 29 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40 10 26 15 32 12 14 7 5 42 66 2 24 62 58 39 29 34 1 30 41 28 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\MSP430F149.txt</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 72 71 43 13 52 27 59 4 57 11 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Hal\Hal_Usart\hal_uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 46 36 37 35 12 15 10 26 24 62 7 14 47 69 58 2 5 40 32 42 66 30 39 41 31 28 29 34 67</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 66 10 37 14 58 7 12 69 36 35 26 32 40 42 41 31 47 67 24 62 2 5 28 46 30 39 29 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Utils\ringbuffer.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 51 12 15 10 26 24 62 7 14 2 5 40 32 42 66 58 30 39 41 31 28 29 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 15 24 32 5 10 12 7 62 66 2 26 14 40 58 39 29 34 51 30 41 28 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\User\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 42 15 10 26 24 62 7 14 5 2 40 47 36 37 35 12 69 58 32 66 30 39 41 31 28 29 34 67</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62 15 12 67 5 7 37 42 10 47 24 2 41 31 69 26 14 40 36 35 58 32 66 28 30 39 29 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\MSP430F149.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 33 38 59 43 13 52 27 4 57 11 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Gizwits\gizwits_product.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 15 10 26 24 62 7 14 5 40 42 47 36 37 35 12 67 69 58 32 66 30 39 41 31 28 29 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 15 62 37 12 66 40 7 5 42 10 47 24 36 35 2 67 26 14 58 32 30 39 29 34 41 28 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Utils\common.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 66 12 15 10 26 24 62 7 14 58 2 5 40 42 30 39 41 31 32 28 29 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 24 29 32 30 15 39 7 10 2 62 5 58 42 26 14 40 41 28 31 34 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Gizwits\gizwits_protocol.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 51 12 15 10 26 24 62 7 14 2 5 40 32 42 67 69 58 66 30 39 41 31 28 29 34 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 15 5 14 2 32 28 1 42 7 58 67 26 40 12 41 31 51 24 62 69 66 30 39 29 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Hal\Hal_key\Hal_key.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 46 36 37 35 12 15 10 26 24 62 7 14 47 69 58 2 5 40 32 42 66 30 39 41 31 28 29 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 5 15 24 37 42 10 69 7 62 2 47 36 35 26 14 58 32 66 40 30 39 29 34 46 41 28 31</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
